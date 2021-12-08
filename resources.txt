@@ -1,2 +1,5 @@
 https://developers.google.com/calendar/api/guides/overview 
 https://developers.google.com/maps
+https://programmers.io/why-reactjs-and-csharp-for-next-project/
+https://www.codeproject.com/Articles/5248030/Using-Create-React-App-and-NET-Core-3-0-to-Build-a
+https://www.youtube.com/watch?v=iYDEEdiLWKI
