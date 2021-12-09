@@ -1,2 +1,8 @@
 https://developers.google.com/calendar/api/guides/overview 
 https://developers.google.com/maps
+
+Saw a video using npm yarn
+https://www.geeksforgeeks.org/difference-between-npm-and-yarn/
+
+Video on Styled Components
+https://www.youtube.com/watch?v=02zO0hZmwnw

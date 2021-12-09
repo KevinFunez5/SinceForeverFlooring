@@ -11,4 +11,6 @@ This will be a website for a construction contractor. Customers will be able to 
 -Google Calendar API
 -Google Maps API
 
-If time permits, I would like the application to be able to send reminders to both parties about planned appointments. And the application could have the google maps API to show the owners office location!
+If time permits, I would like the application to be able to send reminders to both parties about planned appointments. And the application could have the google maps API to show the owners office location! Maybe I could use NoSQL for a cloud database.
+
+![Alt text](diagram.png?raw=true "Diagram")
