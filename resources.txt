@@ -6,3 +6,6 @@ https://www.geeksforgeeks.org/difference-between-npm-and-yarn/
 
 Video on Styled Components
 https://www.youtube.com/watch?v=02zO0hZmwnw
+
+Hidding Scrollbar with CSS
+https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp
