@@ -9,3 +9,48 @@ https://www.youtube.com/watch?v=02zO0hZmwnw
 
 Hidding Scrollbar with CSS
 https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp
+
+
+gonna restart with react. 10 am 12/20
+https://www.youtube.com/watch?v=vD72tRK8mC4
+
+created logo 11:17am 12/20
+/Users/kevinfunez/capstone/SinceForeverFlooring/SinceForeverLogo.png
+
+lunch 12-1 
+
+1pm start again 
+
+3pm still coding 12/20
+
+6pm finish day 12/20
+
+8 am start again 12/21
+Starting by debugging app some dependecies arent working
+
+9:30 am 12/21
+trying to go back a commit
+
+10:30 am 12/21
+header components
+
+11 am 12/21
+trying to figure out how to delete a commit
+
+
+1 pm 12/21
+deleted commits that i wasnt supposed to delete now starting again with header component
+
+1:20 12/21
+now i have to restart on the header component bc i lost all progress on it
+
+3 pm
+got the app to run and coding header components 
+
+5 pm 
+done for the day 
+
+
+
+
+
