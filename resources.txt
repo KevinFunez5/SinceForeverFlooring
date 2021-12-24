@@ -50,7 +50,25 @@ got the app to run and coding header components
 5 pm 
 done for the day 
 
+6 am 12/22 
+start with services component 
+
+7:45 12/22 
+finish services component starting with gallery component 
 
 
+11am 12/22 
+start Schedule component
 
+2pm 12/22 
+start on email functionality 
 
+5pm 12/22 
+finish for the day
+
+8 am 12/23
+
+finish debugging email functionality
+
+9:30 am 12/23 
+find out how to have buttons scroll down to an element 
